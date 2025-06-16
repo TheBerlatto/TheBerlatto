@@ -58,6 +58,12 @@ I am driven by **focus, determination and proactivity**, and I am currently look
 
 ---
 
+### 🧠 Linguagens Mais Utilizadas | Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheBerlatto&layout=compact&theme=dark)
+
+---
+
 ### ✅ Certificações | Certifications
 
 - 🤖 **Microsoft Azure AI Fundamentals | AI-900** - Microsoft 
@@ -66,8 +72,6 @@ I am driven by **focus, determination and proactivity**, and I am currently look
 
 - 🎓 **Java Completo: Do Zero ao Profissional + Projetos** – Udemy   
 - ☕ **Bootcamp Banco Pan Java Developer** – DIO  
-- ☁️ **AWS Academy Cloud Foundations** – AWS 
+- ☁️ **AWS Academy Cloud Foundations** – AWS
 
-### 🧠 Linguagens Mais Utilizadas | Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheBerlatto&layout=compact&theme=dark)
