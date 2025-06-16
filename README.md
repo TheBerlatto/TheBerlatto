@@ -68,3 +68,6 @@ I am driven by **focus, determination and proactivity**, and I am currently look
 - ☕ **Bootcamp Banco Pan Java Developer** – DIO  
 - ☁️ **AWS Academy Cloud Foundations** – AWS 
 
+### 🧠 Linguagens Mais Utilizadas | Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheBerlatto&layout=compact&theme=dark)
